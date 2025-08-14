@@ -1,7 +1,1 @@
-new1
-new2
-new3
-new1
-new
-newB1
-ali
+test
